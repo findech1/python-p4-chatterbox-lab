@@ -1,6 +1,6 @@
 # Chatterbox Lab
 
-## Learning Goals
+### Learning Goals
 
 - Create an API with Flask for a React frontend application.
 
